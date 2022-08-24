@@ -179,7 +179,7 @@ We categorize the studies on 3D-aware image generation according to the represen
   [ICCV 2021](https://arXiv.org/abs/2104.07659) / [Code](https://github.com/NVlabs/GANcraft) / [Project Page](https://nvlabs.github.io/GANcraft/)
 - Generative Occupancy Fields for 3D Surface-Aware Image Synthesis <br>
   [NeurIPS 2021](https://arXiv.org/abs/2111.00969) / [Code](https://github.com/SheldonTsui/GOF_NeurIPS2021) / [Project Page](https://sheldontsui.github.io/projects/GOF)
-- 3D-Aware Semantic-Guided Generative Model for Human Synthesis <br>
+- **3D-Aware Semantic-Guided Generative Model for Human Synthesis** <br>
   [ECCV 2022](https://arXiv.org/abs/2112.01422) / [Code](https://github.com/zhangqianhui/3DSGAN) 
 - FENeRF: Face Editing in Neural Radiance Fields <br>
   [CVPR 2022](https://arXiv.org/abs/2111.15490)
@@ -187,7 +187,7 @@ We categorize the studies on 3D-aware image generation according to the represen
   [ICLR 2022](https://arXiv.org/abs/2110.08985) / [Code](https://github.com/facebookresearch/StyleNeRF) / [Project Page](http://jiataogu.me/style_nerf/)
 - StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation <br>
   [CVPR 2022](https://arXiv.org/abs/2112.11427) / [Code](https://github.com/royorel/StyleSDF) / [Project Page](https://stylesdf.github.io/)
-- GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation <br>
+- **GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation** <br>
   [CVPR 2022](https://arXiv.org/abs/2112.08867) / [Project Page](https://yudeng.github.io/GRAM/)
 - A Generative Model for 3D Face Synthesis with HDRI Relighting <br>
   [arXiv 2022](https://arxiv.org/abs/2201.04873)
@@ -205,7 +205,7 @@ We categorize the studies on 3D-aware image generation according to the represen
   [CVPR 2022](https://arxiv.org/abs/2203.15926)
 - IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis <br>
   [arXiv 2022](https://arxiv.org/abs/2205.15517) / [Code](https://github.com/MrTornado24/IDE-3D) / [Project Page](https://mrtornado24.github.io/IDE-3D/)
-- GRAM-HD: 3D-Consistent Image Generation at High Resolution with Generative Radiance Manifolds <br>
+- **GRAM-HD: 3D-Consistent Image Generation at High Resolution with Generative Radiance Manifolds** <br>
   [arXiv 2022](https://arxiv.org/abs/2206.07255) / [Project Page](https://jeffreyxiang.github.io/GRAM-HD/)
 - EpiGRAF: Rethinking training of 3D GANs <br>
   [arXiv 2022](https://arxiv.org/abs/2206.10535) / [Project Page](https://universome.github.io/epigraf)
